@@ -1,0 +1,9 @@
+it\unipi\hadoop\Utils.class
+it\unipi\hadoop\datastr\CentroidWritable.class
+it\unipi\hadoop\KMeansCombiner.class
+it\unipi\hadoop\old\DateUtil.class
+it\unipi\hadoop\Main.class
+it\unipi\hadoop\datastr\PointWritable.class
+it\unipi\hadoop\old\TimeSeriesData.class
+it\unipi\hadoop\KMeansMapper.class
+it\unipi\hadoop\KMeansReducer.class
